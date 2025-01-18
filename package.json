@@ -1,0 +1,22 @@
+{
+  "name": "laravel-fast-api-vuepress",
+  "version": "1.0.0",
+  "description": "laravel-fast-api develop doucment",
+  "main": "index.js",
+  "author": "youhujun",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.9.10",
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-blog": "^1.9.4",
+    "@vuepress/plugin-medium-zoom": "^1.9.10",
+    "@vuepress/plugin-nprogress": "^1.9.10",
+    "@vuepress/plugin-register-components": "^1.9.10",
+    "@vuepress/plugin-search": "^1.9.10",
+    "vuepress": "^1.9.10"
+  }
+}
