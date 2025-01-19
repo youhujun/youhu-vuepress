@@ -2,11 +2,18 @@
 
 [vuepress中文网](https://www.vuepress.cn/)
 
-# 安装
+官网首次安装
 
 ```
 yarn add -D vuepress # npm install -D vuepress
 ```
+
+# 安装
+
+```
+yarn install
+```
+
 ::: warning
 node > 8.0
 :::
