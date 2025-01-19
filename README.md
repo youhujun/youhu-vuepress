@@ -7,12 +7,30 @@
 ```
 yarn add -D vuepress # npm install -D vuepress
 ```
+# 介绍
+
+极简快速的搭建一个自己的vuepress站点
 
 # 安装
 
 ```
 yarn install
 ```
+
+[github地址](https://github.com/youhujun/youhu-vuepress)
+
+[gitee镜像访问地址](https://gitee.com/youhujun/youhu-vuepress)
+
+[gitcode镜像访问地址](https://gitcode.com/youhujun/youhu-vuepress)
+
+---
+
+## 效果图:
+
+web端:
+![web端](https://qiniu.youhujun.com/git/vue/vuepress/youhu-vuepress/pc_01.png)
+phone端:
+![phone端](https://qiniu.youhujun.com/git/vue/vuepress/youhu-vuepress/phone_01.png)
 
 ::: warning
 node > 8.0
